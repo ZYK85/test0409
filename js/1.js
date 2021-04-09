@@ -1,3 +1,3 @@
 function fn(a, b) {
-    console.log(1)
+    console.log(a,b)
 }
